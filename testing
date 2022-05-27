@@ -1,0 +1,7 @@
+let cars = ["BMW", "Volvo", "Saab", "Ford", "Fiat", "Audi"];
+let i = ??????????
+let text = "";
+while (i<5) {
+  text= text+i; i++;
+}
+console.log(text);
